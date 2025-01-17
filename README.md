@@ -24,6 +24,8 @@ Per ogni incontro, accompagnato dalla data, è presente un file di appunti scrit
 
 Specifico che per ogni incontro c'è una cartella chiamata "File utili", che può essere utilizzata come riepilogo per studiare per gli esami o semplicemente per capire meglio il contenuto della lezione presentata - sono intesi come file di riferimento generali o specifici/ad-hoc per aiutare.
 
+In ultimo, "Homework" settimanali assegnati e risolti per esercitarsi e prepararsi per l'esame.
+
 ## 📚 Materiale di studio consigliato
 
 ### Libro di testo
@@ -35,7 +37,7 @@ Specifico che per ogni incontro c'è una cartella chiamata "File utili", che pu�
 ## 🛠️ Strumenti utili
 
 - [Appunti di Automi e Linguaggi Formali - Azzolini](https://appunti.cavallium.it/Automi%20e%20Linguaggi/) - Alcuni appunti utili trascritti in LaTeX in merito alle lezioni trattate
-- [Altre repo di vecchi tutorati](https://github.com/alezanga/AutomiTutorato2018) e (https://github.com/linpengzhang/AFL-Tutoring) - Può esservi utile per eserc izio
+- [Vecchi tutorati - 1](https://github.com/alezanga/AutomiTutorato2018), [Vecchi tutorati - 2](https://github.com/linpengzhang/AFL-Tutoring) - Può esservi utile per eserc izio
 - [Esercizi svolti di Automi e Linguaggi Formali](https://github.com/gabrielrovesti/Tutorato-Automi-e-Linguaggi-Formali-2023-2024) - Per aiutarvi con i miei tutorati dell'anno precedente
 
 ## 💡 Feedback e suggerimenti
