@@ -37,7 +37,7 @@ In ultimo, "Homework" settimanali assegnati e risolti per esercitarsi e preparar
 ## 🛠️ Strumenti utili
 
 - [Appunti di Automi e Linguaggi Formali - Azzolini](https://appunti.cavallium.it/Automi%20e%20Linguaggi/) - Alcuni appunti utili trascritti in LaTeX in merito alle lezioni trattate
-- [Vecchi tutorati - 1](https://github.com/alezanga/AutomiTutorato2018), [Vecchi tutorati - 2](https://github.com/linpengzhang/AFL-Tutoring) - Può esservi utile per eserc izio
+- [Vecchi tutorati - 1](https://github.com/alezanga/AutomiTutorato2018), [Vecchi tutorati - 2](https://github.com/linpengzhang/AFL-Tutoring) - Può esservi utile per esercizio dare un occhio ai vecchi tutorati
 - [Esercizi svolti di Automi e Linguaggi Formali](https://github.com/gabrielrovesti/Tutorato-Automi-e-Linguaggi-Formali-2023-2024) - Per aiutarvi con i miei tutorati dell'anno precedente
 
 ## 💡 Feedback e suggerimenti
