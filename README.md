@@ -1,12 +1,6 @@
-# 🤖 Tutorato di Automi e Linguaggi Formali 2024-2025
+# Tutorato di Automi e Linguaggi Formali 2024-2025
 
 Benvenuti nel repository degli appunti e delle soluzioni degli esercizi proposti durante il tutorato del corso di Automi e Linguaggi Formali della laurea triennale in Informatica dell'Università degli Studi di Padova per l'anno accademico 2024-2025.
-
-## 📞 Contatti
-
-Per qualsiasi domanda o chiarimento, non esitate a contattare:
-
-📧 gabriel.rovesti@studenti.unipd.it
 
 ## 📅 Calendario
 
