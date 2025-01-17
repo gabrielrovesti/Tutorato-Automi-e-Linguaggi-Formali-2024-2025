@@ -1,6 +1,6 @@
 # Tutorato di Automi e Linguaggi Formali 2024-2025
 
-Benvenuti nel repository degli appunti e delle soluzioni degli esercizi proposti durante il tutorato del corso di Automi e Linguaggi Formali della laurea triennale in Informatica dell'Università degli Studi di Padova per l'anno accademico 2024-2025.
+Benvenuti nel repository degli appunti e delle soluzioni degli esercizi proposti durante il tutorato del corso di Automi e Linguaggi Formali del prof. Davide Bresolin, parte della laurea triennale in Informatica dell'Università degli Studi di Padova per l'anno accademico 2024-2025.
 
 ## 📅 Calendario
 
@@ -34,9 +34,9 @@ Specifico che per ogni incontro c'è una cartella chiamata "File utili", che pu�
 
 ## 🛠️ Strumenti utili
 
-- [JFLAP](http://www.jflap.org/) - Software per la creazione e simulazione di automi e grammatiche
-- [Turing Machine Simulator](http://morphett.info/turing/turing.html) - Simulatore online di macchine di Turing
-
+- [Appunti di Automi e Linguaggi Formali - Azzolini](https://appunti.cavallium.it/Automi%20e%20Linguaggi/) - Alcuni appunti utili trascritti in LaTeX in merito alle lezioni trattate
+- [Altre repo di vecchi tutorati](https://github.com/alezanga/AutomiTutorato2018) e (https://github.com/linpengzhang/AFL-Tutoring) - Può esservi utile per eserc izio
+- [Esercizi svolti di Automi e Linguaggi Formali](https://github.com/gabrielrovesti/Tutorato-Automi-e-Linguaggi-Formali-2023-2024) - Per aiutarvi con i miei tutorati dell'anno precedente
 
 ## 💡 Feedback e suggerimenti
 
