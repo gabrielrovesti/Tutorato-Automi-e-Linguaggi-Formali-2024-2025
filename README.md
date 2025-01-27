@@ -6,17 +6,18 @@ Benvenuti nel repository degli appunti e delle soluzioni degli esercizi proposti
 
 | **#** | **Data**     | **Orario**   | **Aula** |
 |:-----:|:------------:|:------------:|:--------:|
-|   1   |  8 Marzo     | 14:30-16:30  |   2AB40  |
-|   2   |  15 Marzo    | 14:30-16:30  |   2AB40  |
-|   3   |  22 Marzo    | 14:30-16:30  |   2AB45  |
-|   4   |  5 Aprile    | 14:30-16:30  |   2BC30  |
-|   5   |  12 Aprile   | 14:30-16:30  |   2AB40  |
-|   6   |  3 Maggio    | 14:30-16:30  |   2BC30  |
-|   7   |  10 Maggio   | 14:30-16:30  |   2AB40  |
-|   8   |  17 Maggio   | 14:30-16:30  |   2AB40  |
-|   9   |  24 Maggio   | 14:30-16:30  |   2AB40  |
-|  10   |  31 Maggio   | 14:30-16:30  |   2AB40  |
-|  11   |  7 Giugno    | 14:30-16:30  |   2AB40  |
+|   1   |  7 Marzo     | 10:30-12:30  |   LUF2   |
+|   2   |  14 Marzo    | 10:30-12:30  |   LUF2   |
+|   3   |  21 Marzo    | 10:30-12:30  |   LUF2   |
+|   4   |  28 Marzo    | 10:30-12:30  |   LUF2   |
+|   5   |  4 Aprile    | 10:30-12:30  |   LUF2   |
+|   6   |  11 Aprile   | 10:30-12:30  |   LUF2   |
+|   7   |  2 Maggio    | 10:30-12:30  |   LUF2   |
+|   8   |  9 Maggio    | 10:30-12:30  |   LUF2   |
+|   9   |  16 Maggio   | 10:30-12:30  |   LUF2   |
+|  10   |  23 Maggio   | 10:30-12:30  |   LUF2   |
+|  11   |  30 Maggio   | 10:30-12:30  |   LUF2   |
+|  12   |  6 Giugno    | 10:30-12:30  |   LUF2   |
 
 ## 📁 Struttura delle cartelle
 
