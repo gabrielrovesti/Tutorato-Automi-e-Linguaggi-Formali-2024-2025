@@ -22,11 +22,19 @@ Benvenuti nel repository degli appunti e delle soluzioni degli esercizi proposti
 
 ## 📁 Struttura delle cartelle
 
-Per ogni incontro, accompagnato dalla data, è presente un file di appunti scritto da me durante la lezione (basato su tablet) e la trascrizione in PDF degli stessi appunti, in modo da aiutarti a utilizzare direttamente quest'ultimo in caso di fraintendimenti e anche per avere una forma più coerente.
+La struttura delle cartelle è la seguente:
 
-Specifico che per ogni incontro c'è una cartella chiamata "File utili", che può essere utilizzata come riepilogo per studiare per gli esami o semplicemente per capire meglio il contenuto della lezione presentata - sono intesi come file di riferimento generali o specifici/ad-hoc per aiutare.
+- Cartella "Lezioni"
 
-In ultimo, "Homework" settimanali assegnati e risolti per esercitarsi e prepararsi per l'esame.
+    - Per ogni incontro, accompagnato dalla data, è presente un file di appunti scritto da me durante la lezione (basato su tablet) e la trascrizione in PDF degli stessi appunti (scaletta della lezione)
+
+- Cartella "File utili" 
+    
+    - Può essere utilizzata come riepilogo per studiare per gli esami o semplicemente per capire meglio il contenuto della lezione presentata - sono intesi come file di riferimento generali o specifici/ad-hoc per aiutare.
+
+- Cartella "Homework" settimanali 
+
+    - Esercizi assegnati e risolti per esercitarsi e prepararsi per l'esame, da svolgere (se possibile) prima del tutorato successivo, in modo tale da discutere insieme a lezione eventuali dubbi o problemi e confrontare le soluzioni anche con colleghi. Serve per mantenere un ritmo di studio costante e per prepararsi al meglio per l'esame.
 
 ## 📚 Materiale di studio consigliato
 
