@@ -26,13 +26,13 @@ La struttura delle cartelle è la seguente:
 
 - Cartella "Lezioni"
 
-    - Per ogni incontro, accompagnato dalla data, è presente un file di appunti scritto da me durante la lezione (basato su tablet) e la trascrizione in PDF degli stessi appunti (scaletta della lezione)
+    - Per ogni incontro, accompagnato dalla data, è presente un file di appunti scritto da me durante la lezione (basato su tablet) e la trascrizione in PDF degli stessi appunti (scaletta della lezione). In queste sono presenti inoltre i riferimenti a mio materiale/tutorati dell'anno precedente con riassunti e file ulteriori ed esercizi risolti presi tra slide Moodle e singoli file di esercizi Moodle.
 
-- Cartella "File utili" 
+- Cartella "Riassunti utili" 
     
     - Può essere utilizzata come riepilogo per studiare per gli esami o semplicemente per capire meglio il contenuto della lezione presentata - sono intesi come file di riferimento generali o specifici/ad-hoc per aiutare.
 
-- Cartella "Homework" settimanali 
+- Cartella "Homework settimanali"
 
     - Esercizi assegnati e risolti per esercitarsi e prepararsi per l'esame, da svolgere (se possibile) prima del tutorato successivo, in modo tale da discutere insieme a lezione eventuali dubbi o problemi e confrontare le soluzioni anche con colleghi. Serve per mantenere un ritmo di studio costante e per prepararsi al meglio per l'esame.
 
