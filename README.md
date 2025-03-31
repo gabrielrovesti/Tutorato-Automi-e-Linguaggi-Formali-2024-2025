@@ -12,7 +12,6 @@ Benvenuti nel repository degli appunti e delle soluzioni degli esercizi proposti
 |   4   |  31 Marzo    | 12:30-14:30  |   2AB40   |
 |   5   |  7 Aprile    | 12:30-14:30  |   LabTA   |
 |   6   |  14 Aprile   | 12:30-14:30  |   2AB40   |
-|   7   |  28 Aprile   | 12:30-14:30  |   2AB40   |
 |   8   |  5 Maggio    | 12:30-14:30  |   2AB40   |
 |   9   |  12 Maggio   | 12:30-14:30  |   2AB40   |
 |  10   |  19 Maggio   | 12:30-14:30  |   2AB40   |
