@@ -10,13 +10,13 @@ Benvenuti nel repository degli appunti e delle soluzioni degli esercizi proposti
 |   2   |  17 Marzo    | 12:30-14:30  |   2AB40   |
 |   3   |  24 Marzo    | 12:30-14:30  |   2AB40   |
 |   4   |  31 Marzo    | 12:30-14:30  |   2AB40   |
-|   5   |  7 Aprile    | 12:30-14:30  |   LabTA   |
+|   5   |  7 Aprile    | 12:30-14:30  |   LUF1    |
 |   6   |  14 Aprile   | 12:30-14:30  |   2AB40   |
-|   8   |  5 Maggio    | 12:30-14:30  |   2AB40   |
-|   9   |  12 Maggio   | 12:30-14:30  |   2AB40   |
-|  10   |  19 Maggio   | 12:30-14:30  |   2AB40   |
-|  11   |  26 Maggio   | 12:30-14:30  |   1BC45   |
-|  12   |  6 Giugno    | 12:30-14:30  |   2AB40   |
+|   7   |  5 Maggio    | 12:30-14:30  |   2AB40   |
+|   8   |  12 Maggio   | 12:30-14:30  |   2AB40   |
+|   9   |  19 Maggio   | 12:30-14:30  |   2AB40   |
+|  10   |  26 Maggio   | 12:30-14:30  |   1BC45   |
+|  11   |  6 Giugno    | 12:30-14:30  |   2AB40   |
 
 
 ## 📁 Struttura delle cartelle
