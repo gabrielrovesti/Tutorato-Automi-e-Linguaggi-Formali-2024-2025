@@ -1,6 +1,6 @@
 # Tutorato di Automi e Linguaggi Formali 2024-2025
 
-Benvenuti nel repository degli appunti e delle soluzioni degli esercizi proposti durante il tutorato del corso di Automi e Linguaggi Formali del prof. Davide Bresolin, parte della laurea triennale in Informatica dell'Università degli Studi di Padova per l'anno accademico 2024-2025.
+Repository degli appunti e delle soluzioni degli esercizi proposti durante il tutorato del corso di Automi e Linguaggi Formali del prof. Davide Bresolin, laurea triennale in Informatica dell'Università degli Studi di Padova, anno accademico 2024-2025.
 
 ## 📅 Calendario
 
@@ -18,42 +18,70 @@ Benvenuti nel repository degli appunti e delle soluzioni degli esercizi proposti
 |  10   |  26 Maggio   | 12:30-14:30  |   1BC45   |
 |  11   |  6 Giugno    | 12:30-14:30  |   2AB40   |
 
+## 📁 Struttura del repository
 
-## 📁 Struttura delle cartelle
+```
+.
+├── Lezioni
+│   ├── Incontro N - data
+│   │   ├── Appunti scritti a PC
+│   │   ├── Lezioni di riferimento
+│   │   ├── Materiale utile
+│   │   └── Ulteriori esercizi e appunti
+├── Homework settimanali
+│   ├── Lezione N - Argomento
+│   │   ├── Testo (PDF)
+│   │   └── Soluzioni (PDF e LaTeX)
+└── Riassunti utili per lezione
+    └── Lezione N - Argomento
+        └── Documenti riassuntivi
+```
 
-La struttura delle cartelle è la seguente:
+### Contenuto delle cartelle principali
 
-- Cartella "Lezioni"
+#### 1. Lezioni
+Ogni cartella di incontro contiene:
+- File di appunti scritti durante la lezione (formato tablet `.xopp` e PDF)
+- Scaletta dettagliata della lezione in formato PDF e Word
+- Riferimenti al materiale didattico ufficiale del corso
+- Esempi svolti e approfondimenti specifici per tema
 
-    - Per ogni incontro, accompagnato dalla data, è presente un file di appunti scritto da me durante la lezione (basato su tablet) e la trascrizione in PDF degli stessi appunti (scaletta della lezione). In queste sono presenti inoltre i riferimenti a mio materiale/tutorati dell'anno precedente con riassunti e file ulteriori ed esercizi risolti presi tra slide Moodle e singoli file di esercizi Moodle.
+#### 2. Homework settimanali
+Esercizi assegnati per:
+- Consolidare la preparazione tra un tutorato e l'altro
+- Permettere agli studenti di autovalutarsi
+- Fornire modelli di soluzioni corrette
+- I file sorgente LaTeX sono disponibili per chi volesse modificarli/usarli come template
 
-- Cartella "Riassunti utili" 
-    
-    - Può essere utilizzata come riepilogo per studiare per gli esami o semplicemente per capire meglio il contenuto della lezione presentata - sono intesi come file di riferimento generali o specifici/ad-hoc per aiutare.
-
-- Cartella "Homework settimanali"
-
-    - Esercizi assegnati e risolti per esercitarsi e prepararsi per l'esame, da svolgere (se possibile) prima del tutorato successivo, in modo tale da discutere insieme a lezione eventuali dubbi o problemi e confrontare le soluzioni anche con colleghi. Serve per mantenere un ritmo di studio costante e per prepararsi al meglio per l'esame.
+#### 3. Riassunti utili
+File di sintesi concettuale per:
+- Facilitare il ripasso pre-esame
+- Fornire quadri generali di riferimento per ogni argomento
+- Evidenziare connessioni tra i vari temi del corso
 
 ## 📚 Materiale di studio consigliato
 
-### Libro di testo
-- 📘 "_Introduction to the Theory of Computation_" - Un'eccellente risorsa per approfondire sia la teoria che la pratica del corso, da cui la maggior parte degli esercizi del corso fa riferimento
+### Riferimento principale
+- 📘 "_Introduction to the Theory of Computation_" - Il testo di riferimento da cui derivano la maggior parte degli esercizi discussi
 
-### Risorse online
+### Risorse supplementari
 - 🎥 [Theory of Computation & Automata Theory](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgp46KUv4ZY69yXmpwKOIev) - Neso Academy
 
-## 🛠️ Strumenti utili
+## 🛠️ Strumenti e risorse aggiuntive
 
-- [Appunti di Automi e Linguaggi Formali - Azzolini](https://appunti.cavallium.it/Automi%20e%20Linguaggi/) - Alcuni appunti utili trascritti in LaTeX in merito alle lezioni trattate
-- [Vecchi tutorati - 1](https://github.com/alezanga/AutomiTutorato2018), [Vecchi tutorati - 2](https://github.com/linpengzhang/AFL-Tutoring) - Può esservi utile per esercizio dare un occhio ai vecchi tutorati
-- [Esercizi svolti di Automi e Linguaggi Formali](https://github.com/gabrielrovesti/Tutorato-Automi-e-Linguaggi-Formali-2023-2024) - Per aiutarvi con i miei tutorati dell'anno precedente
+- [Appunti di Automi e Linguaggi Formali - Azzolini](https://appunti.cavallium.it/Automi%20e%20Linguaggi/) - Trascrizioni LaTeX delle lezioni
+- Tutorati degli anni precedenti:
+  - [Tutorato 2018 (Zanga)](https://github.com/alezanga/AutomiTutorato2018)
+  - [Tutorato 2019 (Zhang)](https://github.com/linpengzhang/AFL-Tutoring)
+  - [Tutorato 2022 (Umbrella)](https://github.com/GiulioUmbrella/TutoratoAutomiLinguaggiFormali)
+  - [Tutorato 2024 (Rovesti)](https://github.com/gabrielrovesti/Tutorato-Automi-e-Linguaggi-Formali-2023-2024)
 
-## 💡 Feedback e suggerimenti
+## 💡 Contatti e feedback
 
-Il vostro feedback è prezioso! Per commenti, suggerimenti o domande sul materiale, non esitate a:
-
-- ✉️ Inviarmi una mail - gabriel.rovesti@studenti.unipd.it
-- 📱 Contattarmi su Telegram - @gabrielrovesti
+Per domande, suggerimenti o chiarimenti:
+- ✉️ Email: gabriel.rovesti@studenti.unipd.it
+- 📱 Telegram: @gabrielrovesti
 
 ---
+
+*Ultimo aggiornamento: Aprile 2025*
