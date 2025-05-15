@@ -16,7 +16,8 @@ Repository degli appunti e delle soluzioni degli esercizi proposti durante il tu
 |   8   |  12 Maggio   | 12:30-14:30  |   2AB40   |
 |   9   |  19 Maggio   | 12:30-14:30  |   2AB40   |
 |  10   |  26 Maggio   | 12:30-14:30  |   1BC45   |
-|  11   |  6 Giugno    | 12:30-14:30  |   2AB40   |
+|  11   |  4 Giugno    | 10:30-12:30  |   2BC60   |
+|  12   |  6 Giugno    | 10:30-12:30  |   2AB40   |
 
 ## 📁 Struttura del repository
 
