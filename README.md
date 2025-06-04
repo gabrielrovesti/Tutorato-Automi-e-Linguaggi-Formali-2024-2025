@@ -85,4 +85,4 @@ Per domande, suggerimenti o chiarimenti:
 
 ---
 
-*Ultimo aggiornamento: Maggio 2025*
+*Ultimo aggiornamento: Giugno 2025*
